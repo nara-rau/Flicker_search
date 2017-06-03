@@ -19,8 +19,7 @@
 }
 #images >img{
 	float:left;
-	height:200px;
-	width:15%;
+	height:200px; 
 	margin:20px 10px;
 	border:1px solid green;
 	
