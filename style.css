@@ -1,0 +1,84 @@
+﻿html, body{
+	margin:0;
+	padding:0;
+	/*background-color:#EEA9B8;*/
+}
+#images
+{
+	/*border:1px solid #562321;*/
+	float:left;
+	width:1000px;
+	margin-left:30px;
+}
+#zdes
+{	
+	margin-bottom:20px;
+	height:1600px;
+	width:1000px;
+	/*border:1px solid red;*/
+}
+#images >img{
+	float:left;
+	height:200px;
+	width:15%;
+	margin:20px 10px;
+	border:1px solid green;
+	
+}
+#header 
+{
+	margin-left:220px;
+	font:italic 65px  bold  Zapfino ;
+	color:#8B3A62;
+}
+p
+{
+	margin:0px 0px;
+}
+#search
+{
+	height:50px;
+	width:500px;
+	border-radius:10px;
+}
+#button
+{
+	margin-left:10px;
+	font:italic 35px  bold  Zapfino ;
+	background-color:#8B3A62;
+	color:white;
+	height:50px;
+	width:120px;
+	border-radius:10px;
+	cursor:pointer;
+}
+.box
+{
+	background-image:url("images/bascet.png");
+	text-align:center;
+	border-radius:15px;
+	font:italic 35px  bold  Zapfino ;
+	color:#8B3A62;
+	margin-left:120px;
+	margin-top:10px;
+	width:250px;
+	height:250px;
+	/*border:1px solid blue;*/
+	float:left;
+}
+
+#main
+{	border:1px solid white;
+	background-color:#FFE4E1;
+	margin-left:120px;
+	width:1000px;
+}
+#footer
+{	/*border:1px solid white;*/
+	width:1000px;
+	float:left;
+}
+
+/*#draggable
+  { width: 150px; height: 150px; padding: 0.5em; }
+  #droppable { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; }/*/
